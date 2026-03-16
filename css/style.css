@@ -8,6 +8,6 @@ h1{
     --gris-clair:#EEE;
 }
 h1 {
-    color: var(--violet-fonce);
+    color: var();
 }
 
